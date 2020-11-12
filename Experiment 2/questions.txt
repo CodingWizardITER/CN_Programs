@@ -1,0 +1,8 @@
+Objective 1
+Programmes using TCP sockets to transfer numerical data between client and server.
+
+Objective 2
+To implement a program where the client reads 10 numbers and sends to the srever . The server sorts them and displays them at the client end.
+
+Objective 3
+To implement a program where the client reads a number x and sends to the srever . The server sends to x and x^2 and sends to the client. Then client adds them and sends the result to the server.The server displays it.
